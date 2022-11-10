@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Connor Nelson Blog</title>
+        <link>https://v,mr;dpm4.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Connor Nelson news and events.</description>
+        <lastBuildDate>Thu, 10 Nov 2022 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Connor Nelson Blog</title>
+            <url>https://v,mr;dpm4.github.io/tech-portfolio/undefined</url>
+            <link>https://v,mr;dpm4.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2022 Your Name Here</copyright>
+        <item>
+            <title><![CDATA[First post]]></title>
+            <link>https://v,mr;dpm4.github.io/tech-portfolio/blog/2022/11/10/blog-post.html</link>
+            <guid>https://v,mr;dpm4.github.io/tech-portfolio/blog/2022/11/10/blog-post.html</guid>
+            <pubDate>Thu, 10 Nov 2022 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I learned how to create my technical portfolio!</p> ]]></description>
+        </item>
+    </channel>
+</rss>
